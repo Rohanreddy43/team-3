@@ -1,0 +1,220 @@
+{
+  "placeholderImages": [
+    {
+      "id": "paneer-butter-masala",
+      "description": "Paneer Butter Masala",
+      "imageUrl": "https://images.unsplash.com/photo-1690401769082-5f475f87fb22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYW5lZXIlMjBidXR0ZXIlMjBtYXNhbGF8ZW58MHx8fHwxNzYxMTg5NzIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer butter masala"
+    },
+    {
+      "id": "pani-puri",
+      "description": "Pani Puri",
+      "imageUrl": "https://images.unsplash.com/photo-1760263051331-0e4d3dafc9ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYW5pJTIwcHVyaXxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pani puri"
+    },
+    {
+      "id": "mango-lassi",
+      "description": "Mango Lassi",
+      "imageUrl": "https://images.unsplash.com/photo-1673119112689-7b9702d92ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYW5nbyUyMGxhc3NpfGVufDB8fHx8MTc2MTEzNzc5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mango lassi"
+    },
+    {
+      "id": "masala-dosa",
+      "description": "Masala Dosa",
+      "imageUrl": "https://images.unsplash.com/photo-1743615467363-250466982515?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYXNhbGElMjBkb3NhfGVufDB8fHx8MTc2MTIzODE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "masala dosa"
+    },
+    {
+      "id": "jalebi",
+      "description": "Jalebi",
+      "imageUrl": "https://images.unsplash.com/photo-1721174233280-c55186b7cabc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxqYWxlYml8ZW58MHx8fHwxNzYxMTYxNzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jalebi"
+    },
+    {
+      "id": "pav-bhaji",
+      "description": "Pav Bhaji",
+      "imageUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwYXYlMjBiaGFqaXxlbnwwfHx8fDE3NjExMzc3OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pav bhaji"
+    },
+    {
+      "id": "khichdi",
+      "description": "Khichdi",
+      "imageUrl": "https://images.unsplash.com/photo-1621427017774-f0e7ebbda11f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxraGljaGRpfGVufDB8fHx8MTc2MTIzODE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "khichdi"
+    },
+    {
+      "id": "masala-chai",
+      "description": "Masala Chai",
+      "imageUrl": "https://images.unsplash.com/photo-1646294567230-b56cb0cd1f5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYXNhbGElMjBjaGFpfGVufDB8fHx8MTc2MTE2MTc1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "masala chai"
+    },
+    {
+      "id": "rajma-chawal",
+      "description": "Rajma Chawal",
+      "imageUrl": "https://images.unsplash.com/photo-1710623443352-df8b4f45d227?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyYWptYSUyMGNoYXdhbHxlbnwwfHx8fDE3NjExMjU2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rajma chawal"
+    },
+    {
+      "id": "gajar-halwa",
+      "description": "Gajar Halwa",
+      "imageUrl": "https://images.unsplash.com/photo-1678222955938-e6a6a421e481?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYWphciUyMGhhbHdhfGVufDB8fHx8MTc2MTI3Mjc5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gajar halwa"
+    },
+    {
+      "id": "tomato-soup",
+      "description": "Tomato Soup",
+      "imageUrl": "https://images.unsplash.com/photo-1673021889619-0677506b56ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dG9tYXRvJTIwc291cHxlbnwwfHx8fDE3NjEyMzI0MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tomato soup"
+    },
+    {
+      "id": "poha",
+      "description": "Poha",
+      "imageUrl": "https://images.unsplash.com/photo-1596411753864-490208dcdac8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb2hhfGVufDB8fHx8MTc2MTIzODE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "poha"
+    },
+    {
+      "id": "lemon-rice",
+      "description": "Lemon Rice",
+      "imageUrl": "https://images.unsplash.com/photo-1612183078948-11291ada6356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZW1vbiUyMHJpY2V8ZW58MHx8fHwxNzYxMjM4MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lemon rice"
+    },
+    {
+      "id": "curd-rice",
+      "description": "Curd Rice",
+      "imageUrl": "https://images.unsplash.com/photo-1627482265910-5c0ff6bee088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjdXJkJTIwcmljZXxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "curd rice"
+    },
+    {
+      "id": "dal-tadka",
+      "description": "Dal Tadka",
+      "imageUrl": "https://images.unsplash.com/photo-1734770931927-6410f9a64832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYWwlMjB0YWRrYXxlbnwwfHx8fDE3NjExNjE3NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dal tadka"
+    },
+    {
+      "id": "moong-dal-chilla",
+      "description": "Moong Dal Chilla",
+      "imageUrl": "https://images.unsplash.com/photo-1567097897078-779d980d381e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb29uZyUyMGRhbCUyMGNoaWxsYXxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "moong dal chilla"
+    },
+    {
+      "id": "vegetable-upma",
+      "description": "Vegetable Upma",
+      "imageUrl": "https://images.unsplash.com/photo-1593026120656-563c87b18708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dmVnZXRhYmxlJTIwdXBtYXxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable upma"
+    },
+    {
+      "id": "herbal-green-tea",
+      "description": "Herbal Green Tea",
+      "imageUrl": "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoZXJiYWwlMjB0ZWF8ZW58MHx8fHwxNzYxMjAxMjA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "herbal tea"
+    },
+    {
+      "id": "chole-bhature",
+      "description": "Chole Bhature",
+      "imageUrl": "https://images.unsplash.com/photo-1633944804591-b937c9b4faae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaG9sZSUyMGJoYXR1cmV8ZW58MHx8fHwxNzYxMTI1Njc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chole bhature"
+    },
+    {
+      "id": "masala-oats",
+      "description": "Masala Oats",
+      "imageUrl": "https://images.unsplash.com/photo-1708949125682-c0cb09727101?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXNhbGElMjBvYXRzfGVufDB8fHx8MTc2MTIzODE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "masala oats"
+    },
+    {
+      "id": "sprout-salad",
+      "description": "Sprout Salad",
+      "imageUrl": "https://images.unsplash.com/photo-1568158958563-c13c713d69f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzcHJvdXQlMjBzYWxhZHxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sprout salad"
+    },
+    {
+      "id": "paneer-tikka",
+      "description": "Paneer Tikka",
+      "imageUrl": "https://images.unsplash.com/photo-1701579231378-3726490a407b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwYW5lZXIlMjB0aWtrYXxlbnwwfHx8fDE3NjEyMjkyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer tikka"
+    },
+    {
+      "id": "vegetable-pulao",
+      "description": "Vegetable Pulao",
+      "imageUrl": "https://images.unsplash.com/photo-1651718243509-742f5bd5836c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2ZWdldGFibGUlMjBwdWxhb3xlbnwwfHx8fDE3NjEyMzgxNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable pulao"
+    },
+    {
+      "id": "banana-smoothie",
+      "description": "Banana Smoothie",
+      "imageUrl": "https://images.unsplash.com/photo-1604147873686-02c49cfdfb1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiYW5hbmElMjBzbW9vdGhpZXxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "banana smoothie"
+    },
+    {
+      "id": "fusion-maggi",
+      "description": "Fusion Maggi",
+      "imageUrl": "https://images.unsplash.com/photo-1673364250212-03108c843072?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxGdXNpb24lMjBNYWdnaXxlbnwwfHx8fDE3NjEyNzI5MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fusion maggi"
+    },
+    {
+      "id": "samosa-chaat",
+      "description": "Samosa Chaat",
+      "imageUrl": "https://images.unsplash.com/photo-1566858440276-4ee52875d65c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzYW1vc2ElMjBjaGFhdHxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "samosa chaat"
+    },
+    {
+      "id": "dhokla-sandwich",
+      "description": "Dhokla Sandwich",
+      "imageUrl": "https://images.unsplash.com/photo-1628328726811-c448839a7dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkaG9rbGElMjBzYW5kd2ljaHxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dhokla sandwich"
+    },
+    {
+      "id": "paneer-frankie",
+      "description": "Paneer Frankie",
+      "imageUrl": "https://images.unsplash.com/photo-1643216343350-a94833c4125b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYW5lZXIlMjBmcmFua2llfGVufDB8fHx8MTc2MTI3Mjk4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer frankie"
+    },
+    {
+      "id": "masala-corn",
+      "description": "Masala Corn",
+      "imageUrl": "https://images.unsplash.com/photo-1688940737480-bee66f221b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFzYWxhJTIwY29ybnxlbnwwfHx8fDE3NjExNjE3NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "masala corn"
+    },
+    {
+      "id": "fruit-chaat",
+      "description": "Fruit Chaat",
+      "imageUrl": "https://images.unsplash.com/photo-1605879883262-0cd26b362f54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmcnVpdCUyMGNoYWF0fGVufDB8fHx8MTc2MTIzODE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit chaat"
+    },
+    {
+      "id": "kadhi-chawal",
+      "description": "Kadhi Chawal",
+      "imageUrl": "https://images.unsplash.com/photo-1671818237371-ec4b31f30922?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxrYWRoaSUyMGNoYXdhbHxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kadhi chawal"
+    },
+    {
+      "id": "masala-dalia",
+      "description": "Masala Dalia",
+      "imageUrl": "https://images.unsplash.com/photo-1642302322306-62e54ab2437b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXNhbGElMjBkYWxpYXxlbnwwfHx8fDE3NjEyNzMwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "masala dalia"
+    },
+    {
+      "id": "besan-ladoo",
+      "description": "Besan Ladoo",
+      "imageUrl": "https://images.unsplash.com/photo-1635952346904-95f2ccfcd029?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZXNhbiUyMGxhZG9vfGVufDB8fHx8MTc2MTIzODE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "besan ladoo"
+    },
+    {
+      "id": "idli-with-sambar",
+      "description": "Idli with Sambar",
+      "imageUrl": "https://images.unsplash.com/photo-1723937188995-beac88d36998?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aWRsaSUyMHNhbWJhcnxlbnwwfHx8fDE3NjExOTcxOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "idli sambar"
+    },
+    {
+      "id": "vegetable-soup",
+      "description": "Vegetable Soup",
+      "imageUrl": "https://images.unsplash.com/photo-1677889173479-c8a0ab15ae18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2ZWdldGFibGUlMjBzb3VwfGVufDB8fHx8MTc2MTE1MDE5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable soup"
+    },
+    {
+      "id": "kheer",
+      "description": "Kheer",
+      "imageUrl": "https://images.unsplash.com/photo-1639771884984-88fa62ac7e19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxraGVlcnxlbnwwfHx8fDE3NjEyMzgxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kheer"
+    }
+  ]
+}
